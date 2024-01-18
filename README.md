@@ -1,2 +1,3 @@
 # exercicios_python_elasnatech
-elas_na_tech_2023
+
+#exercício Elas na Tech
